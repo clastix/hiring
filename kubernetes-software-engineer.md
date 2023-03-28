@@ -74,7 +74,7 @@ If the Pull Request is approved, a final call to meet the team will be made and 
 
 ## How to apply
 
-Sending an email with your CV attached to `jobs [at] clastix.io`.
+Sending an email with your CV attached to [jobs@clastix.io](mailto:jobs@clastix.io).
 
 Please share your GitHub/BitBucket/GitLab profile with us, if you have one and you are contributing to open-source projects.
 
